@@ -2,6 +2,7 @@
 Repositorio académico de Estructura de Datos en C++ que centraliza y demuestra la implementación de nuevas funcionalidades sobre listas enlazadas, pilas, colas y notaciones matemáticas correspondientes a cada grupo de exposición
 
 Grupo 1: Listas Doblemente Enlazadas
+*
 Función a implementar: `invertir()`
 * **Descripción:** Invierte el orden de los nodos de la lista doblemente enlazada intercambiando directamente sus punteros (`siguiente` y `anterior`), sin necesidad de crear nodos adicionales.
 
