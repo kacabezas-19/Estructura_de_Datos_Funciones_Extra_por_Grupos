@@ -1,43 +1,33 @@
-# Estructura_de_Datos_Funciones_Extra_por_Grupos
-Repositorio académico de Estructura de Datos en C++ que centraliza y demuestra la implementación de nuevas funcionalidades sobre listas enlazadas, pilas, colas y notaciones matemáticas correspondientes a cada grupo de exposición
+# Práctica de Estructura de Datos
 
-
-### Grupo 1: Listas Doblemente Enlazadas
-
-* **Función a implementar:** `invertir()`
-* **Descripción:** Invierte el orden de los nodos de la lista doblemente enlazada intercambiando directamente sus punteros (`siguiente` y `anterior`), sin necesidad de crear nodos adicionales.
+Este repositorio permite visualizar y poner a prueba las nuevas funcionalidades desarrolladas e integradas en el código correspondiente a cada grupo de exposición.
 
 ---
 
-### Grupo 2: Listas Dobles Circulares
-
-* **Función a implementar:** `obtenerEnPosicion(int pos)`
-* **Descripción:** Recorre la estructura circular y devuelve el dato almacenado exactamente en la posición `pos` solicitada por el usuario.
+**grupo 1 tema: Listas dobles**  
+* **funcion a implementar:** Agregar una función `invertir()` a la lista doblemente enlazada, que invierta el orden de los nodos cambiando los punteros.
 
 ---
 
-### Grupo 3: Pilas (Tamaño)
-
-* **Función a implementar:** `sizePila()`
-* **Descripción:** Evalúa la estructura y devuelve el número actual de elementos almacenados en la pila en ese instante.
+**grupo 2: tema: Listas dobles circulares**  
+* **funcion a implementar:** Agregar una funcion `obtenerEnPosicion(int pos)` que devuelva el dato almacenado en la posicion pos de la lista.
 
 ---
 
-### Grupo 4: Colas
-
-* **Función a implementar:** `contarElementos()`
-* **Descripción:** Recorre la cola y contabiliza el número total de nodos o elementos encolados actualmente.
+**grupo 3: tema pilas**  
+* **funcion:** Agregar una funcion `sizePila()` que permita devolver el número actual de elementos almacenados en la pila.
 
 ---
 
-### Grupo 5: Notaciones Aritméticas
-
-* **Función a implementar:** `contarOperadores()`
-* **Descripción:** Recibe una expresión en notación infija y cuenta la cantidad de operadores aritméticos presentes (`+`, `-`, `*`, `/`, `^`). La función se integra al menú principal existente sin alterar el funcionamiento de las demás opciones y permite validar su ejecución con distintas expresiones matemáticas.
+**grupo 4: tema: colas**  
+* **funcion:** Implementar la función `contarElementos`
 
 ---
 
-### Grupo 6: Pilas (Suma de Elementos)
+**grupo 5: tema: notaciones**  
+* **funcion:** implementar en el código C++ una función llamada `[contarOperadores()]` que reciba una expresión infija y cuente los operadores aritméticos `[(+, -, *, /, ^)]`. Deberán integrar la función en el menú existente, sin alterar el funcionamiento de las demás opciones, y comprobar su funcionamiento con diferentes expresiones matemáticas.
 
-* **Función a implementar:** `sumarElementos()`
-* **Descripción:** Recorre los elementos almacenados en la pila y calcula la suma total de sus valores numéricos.
+---
+
+**grupo 6: tema: pilas**  
+* implementar la funcion para sumar elementos de la pila
