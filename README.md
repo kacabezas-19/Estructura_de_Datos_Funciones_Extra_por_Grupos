@@ -1,6 +1,6 @@
 # Estructura_de_Datos_Funciones_Extra_por_Grupos
 Repositorio académico de Estructura de Datos en C++ que centraliza y demuestra la implementación de nuevas funcionalidades sobre listas enlazadas, pilas, colas y notaciones matemáticas correspondientes a cada grupo de exposición
-y devuelve el número actual de elementos almacenados en la pila en ese instante.
+
 
 ### Grupo 1: Listas Doblemente Enlazadas
 
