@@ -9,7 +9,7 @@ Función a implementar: `invertir()`
 * **Función a implementar:** `obtenerEnPosicion(int pos)`
 * **Descripción:** Recorre la estructura circular y devuelve el dato almacenado exactamente en la posición `pos` solicitada por el usuario.
 
-### Grupo 3: Pilas (Tamaño)
+### Grupo 3: Pilas 
 * **Función a implementar:** `sizePila()`
 * **Descripción:** Evalúa la estructura y devuelve el número actual de elementos almacenados en la pila en ese instante.
 
